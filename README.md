@@ -31,12 +31,12 @@ Para garantizar la convergencia total del modelo y capturar patrones de interfer
 
 ### Visualización de Resultados
 
-| Clasificación por Canales (KNN) | Curva de Aprendizaje 800 Épocas (LSTM) |
+| Clasificación por Canales (KNN) | Análisis Temporal (LSTM) |
 | :---: | :---: |
 | <img src="./KNN.png" width="400"> | <img src="./LSTM.png" width="400"> |
 
 * **Figura 1 (Izquierda):** Distribución de señales y niveles de potencia por canal para identificar saturación de espectro.
-* **Figura 2 (Derecha):** Gráfico de *Loss vs Epochs* que demuestra la convergencia exitosa hacia el mínimo global del error.
+* **Figura 2 (Derecha):** Análisis temporal que demuestra la convergencia exitosa hacia el mínimo global del error.
 
 ## 📂 Estructura del Proyecto
 * `Estudio_canal_wifi_1.ipynb`: Notebook con el flujo completo de EDA, entrenamiento y evaluación de modelos.
