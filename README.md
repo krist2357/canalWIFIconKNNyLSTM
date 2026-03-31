@@ -44,6 +44,12 @@ El proyecto genera visualizaciones críticas para la toma de decisiones:
 2. **Curva de Aprendizaje:** Gráfico de *Loss vs Epochs* que demuestra la convergencia del modelo de Deep Learning.
 3. **Mapas de Interferencia:** Identificación de canales críticos en la banda de 2.4 GHz.
 
+### Visualización de Resultados
+
+| Clasificación por Canales (KNN) | Convergencia del Modelo (LSTM) |
+| :---: | :---: |
+| <img src="./KNN.png" width="400"> | <img src="./LSTM.png" width="400"> |
+
 ---
 **Perfil del Autor:**
 Soy **Christian Cadena**, Especializado en Electrónica, Telecomunicaciones e IA. Este proyecto marca el inicio de mi trayectoria integrando el desarrollo de software (Python) y la Inteligencia Artificial en el sector de la infraestructura tecnológica.
